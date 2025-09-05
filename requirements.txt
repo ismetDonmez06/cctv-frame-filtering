@@ -1,0 +1,2 @@
+- A compiler that supports C++17 (like g++ or clang++)
+- POSIX threads support (compile with -pthread)
